@@ -1,6 +1,1 @@
-Thanks for downloading this theme!
-
-Theme Name: Vesperr
-Theme URL: https://bootstrapmade.com/vesperr-free-bootstrap-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Site para o projeto SISI - Sistema de Informação Simplificada para o Idoso, apresentado para o Social IT Solutions Workshop do Massachusetts Intitute of Technology
